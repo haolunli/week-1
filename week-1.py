@@ -34,6 +34,7 @@ class Player:
     playerID=0
     pot=0
     playerCard=0
+    
     # in the __init__() function, use the two input variables to initialize the ID and starting pot of each player
     
     def __init__(self, inputID, startingPot):
